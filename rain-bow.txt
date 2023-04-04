@@ -8,3 +8,4 @@ yellow branch
 pause main
 i'm pink
 
+haruhi says hello
