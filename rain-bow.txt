@@ -2,3 +2,5 @@ red
 yellow
 purple
 green branch
+
+pause main
