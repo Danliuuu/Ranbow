@@ -1,5 +1,6 @@
 red
 yellow
+test something in the middle
 purple
 green branch
 yellow branch
@@ -8,3 +9,4 @@ yellow branch
 pause main
 i'm pink
 
+haruhi says hello
